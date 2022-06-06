@@ -1,0 +1,29 @@
+.citybikeclub-image{
+    margin: 10px;
+}
+.citybikeclub-image > div {
+    display: flex;
+    justify-content: space-between;
+    margin: 4px;
+}
+.bike-title {
+    font-size: 18px;
+}
+.bike-price {
+    font-size: 17px;
+    margin-right: 10px;
+}
+.bike-subtitle {
+    margin-left: 6px;
+    color: rgb(134, 129, 129);
+}
+.city-bike-club-heading {
+    font-size: 25px;
+    margin-left: 10px;
+}
+.main-div-city-bike {
+    width: 1270px;
+    margin: auto;
+    margin-top: 25px;
+    margin-bottom: 5px;
+}

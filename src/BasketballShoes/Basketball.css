@@ -1,0 +1,35 @@
+.citybikeclub-image{
+    margin: 10px;
+}
+.citybikeclub-image > div {
+    display: flex;
+    justify-content: space-between;
+    margin: 4px;
+}
+.bike-title {
+    font-size: 18px;
+    margin: 2px;
+    margin-left: 7px;
+}
+.bike-price {
+    font-size: 17px;
+    margin: 3px;
+    margin-left: 6px;
+}
+.bike-subtitle {
+    margin-left: 6px;
+    color: rgb(134, 129, 129);
+}
+.color-para{
+    margin-left: 6px;
+    color: rgb(134, 129, 129);
+}
+.basketball-div {
+    width: 1050px;
+    border: 2px solid black;
+    margin: auto;
+    display: grid;
+    row-gap: 20px;
+    margin-right: 7px !important;
+    grid-template-columns: repeat(3,350px);
+}

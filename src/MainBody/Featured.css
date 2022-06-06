@@ -1,0 +1,24 @@
+.featured {
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+}
+.featured > div {
+    overflow: hidden;
+}
+.featured-main-box {
+    width: 1280px;
+    margin: auto;
+    margin-top: 10px;
+}
+.featured-main-box > p{
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+.featured-image-text {
+    position: absolute;
+    margin-top: -140px;
+    font-size: 23px;
+    margin-left: 36px;
+    font-weight: 400;
+}

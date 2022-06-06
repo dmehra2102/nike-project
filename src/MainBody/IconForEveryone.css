@@ -1,0 +1,55 @@
+.iconsforeveryone {
+    display: grid;
+    grid-template-columns: repeat(2,665px);
+    grid-template-rows: repeat(2,460px);
+    margin: auto;
+    overflow: hidden;
+    row-gap:17px;
+    column-gap: 10px;
+}
+.icons-image-1 {
+    grid-area: 1/1/4/2;
+    overflow: hidden;
+    height: 940px;
+    border: 1px solid rgb(185, 181, 181);
+}
+.icons-image-2 {
+    overflow: hidden;
+    height: fit-content;
+    width: fit-content;
+    border: 1px solid rgb(182, 177, 177);
+}
+.icons-image-3 {
+    overflow: hidden;
+    height: fit-content;
+    width: fit-content;
+    border: 1px solid rgb(177, 168, 168);
+}
+.main-div-foreveryone {
+    width: 1300px;
+    margin: auto;
+    margin-top: 30px;
+    overflow: hidden;
+    margin-bottom: 0px !important;
+    padding-bottom: 0px !important;
+}
+.main-div-foreveryone > p {
+    font-size: 26px;
+    margin-bottom: 12px;
+}
+.image-text {
+    position: absolute;
+    margin-top: -80px;
+    color: white;
+    font-weight: 600;
+    font-size: 25px;
+    margin-left: 50px;
+}
+.big-image-text {
+    position: absolute;
+    margin-top: -160px;
+    color: white;
+    font-weight: 600;
+    font-size: 25px;
+    margin-left: 50px;
+}

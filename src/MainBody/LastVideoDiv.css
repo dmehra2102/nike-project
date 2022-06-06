@@ -1,0 +1,17 @@
+.lastvideodiv {
+    display: flex;
+    gap: 7px;
+    width: 1200px;
+    margin: auto;
+    margin-top: 12px;
+}
+.last-video-div{
+    display: block;
+    width: 390px;
+    overflow: hidden;
+}
+.last-video-div-text {
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 5px;
+}

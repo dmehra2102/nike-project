@@ -1,0 +1,37 @@
+.slidingpics {
+    display: block;
+    width: 1329px;
+    margin: auto;
+    margin-top: 7px;
+    margin-bottom: 5px;
+    /* position: absolute; */
+}
+.slidingpics > Carousel > div {
+    align-items: center;
+}
+.image2-text {
+    position: absolute;
+    margin-top: -48px;
+    color: rgb(235, 223, 223);
+    margin-left: 540px;
+    font-size: 41px;
+    font-weight: 800;
+}
+.image3-text {
+    position: absolute;
+    margin-top: -68px;
+    color: rgb(247, 239, 239);
+    margin-left: 520px;
+    font-size: 45px;
+    font-weight: 800;
+}
+.image1-text {
+    position: absolute;
+    margin-top: -298px;
+    color: white;
+    margin-left: 60px;
+    font-size: 52px;
+    line-height: 46px;
+    font-weight: 970;
+    max-width: 200px;
+}
